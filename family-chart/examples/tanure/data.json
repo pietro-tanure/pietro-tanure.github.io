@@ -1,0 +1,261 @@
+[
+  {
+    "id": "0",
+    "rels": {
+      "father": "e99e2e5a-d563-495c-a33c-9ede5de9f595",
+      "mother": "b8c291f5-7691-48e2-9394-bf7a6c6e5b9b"
+    },
+    "data": {
+      "first name": "Pietro",
+      "last name": "Tanure Onnis",
+      "birthday": "16/11/1997",
+      "avatar": "https://static8.depositphotos.com/1009634/988/v/950/depositphotos_9883921-stock-illustration-no-user-profile-picture.jpg",
+      "gender": "M",
+      "birth place": "Belo Horizonte"
+    }
+  },
+  {
+    "id": "e99e2e5a-d563-495c-a33c-9ede5de9f595",
+    "data": {
+      "gender": "M",
+      "first name": "Kiwa",
+      "last name": "Teixeira Onnis",
+      "birthday": "",
+      "avatar": "",
+      "birth place": ""
+    },
+    "rels": {
+      "children": [
+        "0"
+      ],
+      "spouses": [
+        "b8c291f5-7691-48e2-9394-bf7a6c6e5b9b"
+      ]
+    }
+  },
+  {
+    "id": "b8c291f5-7691-48e2-9394-bf7a6c6e5b9b",
+    "data": {
+      "gender": "F",
+      "first name": "Mariana",
+      "last name": "Tanure Machado",
+      "birthday": "18/10/1973",
+      "avatar": "",
+      "birth place": ""
+    },
+    "rels": {
+      "spouses": [
+        "e99e2e5a-d563-495c-a33c-9ede5de9f595"
+      ],
+      "children": [
+        "0"
+      ],
+      "father": "4b306229-0300-4cf7-b318-48ea98fd6480",
+      "mother": "fdcb1127-8810-4b0d-a30c-b1801cb2ff01"
+    }
+  },
+  {
+    "id": "4b306229-0300-4cf7-b318-48ea98fd6480",
+    "data": {
+      "gender": "M",
+      "first name": "Pitagoras",
+      "last name": "Machado",
+      "birthday": "",
+      "avatar": "",
+      "birth place": ""
+    },
+    "rels": {
+      "children": [
+        "b8c291f5-7691-48e2-9394-bf7a6c6e5b9b"
+      ],
+      "spouses": [
+        "fdcb1127-8810-4b0d-a30c-b1801cb2ff01"
+      ]
+    }
+  },
+  {
+    "id": "fdcb1127-8810-4b0d-a30c-b1801cb2ff01",
+    "data": {
+      "gender": "F",
+      "first name": "Nadja",
+      "last name": "Tanure",
+      "birthday": "",
+      "avatar": "",
+      "birth place": ""
+    },
+    "rels": {
+      "spouses": [
+        "4b306229-0300-4cf7-b318-48ea98fd6480",
+        "ea289d89-151d-43c9-845f-f95612daa09d"
+      ],
+      "children": [
+        "6d73151c-2fec-4a75-9441-67e68398c6be",
+        "b8c291f5-7691-48e2-9394-bf7a6c6e5b9b"
+      ],
+      "mother": "3e434607-3ce4-40a2-b1e6-f2475dbe0666"
+    }
+  },
+  {
+    "id": "6d73151c-2fec-4a75-9441-67e68398c6be",
+    "data": {
+      "gender": "M",
+      "first name": "Francisco José Arnaldo",
+      "last name": "Tanure",
+      "birthday": "",
+      "avatar": "",
+      "birth place": ""
+    },
+    "rels": {
+      "father": "ea289d89-151d-43c9-845f-f95612daa09d",
+      "mother": "fdcb1127-8810-4b0d-a30c-b1801cb2ff01"
+    }
+  },
+  {
+    "id": "ea289d89-151d-43c9-845f-f95612daa09d",
+    "data": {
+      "gender": "M"
+    },
+    "rels": {
+      "spouses": [
+        "fdcb1127-8810-4b0d-a30c-b1801cb2ff01"
+      ],
+      "children": [
+        "6d73151c-2fec-4a75-9441-67e68398c6be"
+      ]
+    }
+  },
+  {
+    "id": "3e434607-3ce4-40a2-b1e6-f2475dbe0666",
+    "data": {
+      "gender": "F",
+      "first name": "Myriam",
+      "last name": "Jardins Collares",
+      "birthday": "",
+      "avatar": "",
+      "birth place": ""
+    },
+    "rels": {
+      "children": [
+        "fdcb1127-8810-4b0d-a30c-b1801cb2ff01",
+        "9d279e96-c8ea-4084-9b5c-c3352a083e3c",
+        "0222dbd3-3905-419d-8fcb-458f10f66d35",
+        "96328549-9b6e-4f65-9f6f-1ba3deb38580",
+        "af51bda0-c1d7-4d30-ac34-e59432745996"
+      ],
+      "spouses": []
+    }
+  },
+  {
+    "id": "9d279e96-c8ea-4084-9b5c-c3352a083e3c",
+    "data": {
+      "gender": "M",
+      "first name": "Jansen",
+      "last name": "",
+      "birthday": "",
+      "avatar": "",
+      "birth place": ""
+    },
+    "rels": {
+      "mother": "3e434607-3ce4-40a2-b1e6-f2475dbe0666",
+      "spouses": [
+        "269a775e-cc0a-4563-a7f0-3883b324d630"
+      ],
+      "children": [
+        "6cbab985-c045-42aa-bc07-fcb946d6826f",
+        "35dc7782-1e26-4fdd-a79d-6a1046b66598"
+      ]
+    }
+  },
+  {
+    "id": "0222dbd3-3905-419d-8fcb-458f10f66d35",
+    "data": {
+      "gender": "F",
+      "first name": "Djenani Maria",
+      "last name": "Tanure",
+      "birthday": "",
+      "avatar": "",
+      "birth place": ""
+    },
+    "rels": {
+      "mother": "3e434607-3ce4-40a2-b1e6-f2475dbe0666"
+    }
+  },
+  {
+    "id": "96328549-9b6e-4f65-9f6f-1ba3deb38580",
+    "data": {
+      "gender": "M",
+      "first name": "Joner",
+      "last name": "",
+      "birthday": "",
+      "avatar": "",
+      "birth place": ""
+    },
+    "rels": {
+      "mother": "3e434607-3ce4-40a2-b1e6-f2475dbe0666"
+    }
+  },
+  {
+    "id": "af51bda0-c1d7-4d30-ac34-e59432745996",
+    "data": {
+      "gender": "M",
+      "first name": "Youssef",
+      "last name": "",
+      "birthday": "",
+      "avatar": "",
+      "birth place": ""
+    },
+    "rels": {
+      "mother": "3e434607-3ce4-40a2-b1e6-f2475dbe0666"
+    }
+  },
+  {
+    "id": "269a775e-cc0a-4563-a7f0-3883b324d630",
+    "data": {
+      "gender": "F",
+      "first name": "Rita",
+      "last name": "Capdeville",
+      "birthday": "",
+      "avatar": "",
+      "birth place": ""
+    },
+    "rels": {
+      "spouses": [
+        "9d279e96-c8ea-4084-9b5c-c3352a083e3c"
+      ],
+      "children": [
+        "6cbab985-c045-42aa-bc07-fcb946d6826f",
+        "35dc7782-1e26-4fdd-a79d-6a1046b66598"
+      ]
+    }
+  },
+  {
+    "id": "6cbab985-c045-42aa-bc07-fcb946d6826f",
+    "data": {
+      "gender": "M",
+      "first name": "Daniel",
+      "last name": "Capdeville",
+      "birthday": "",
+      "avatar": "",
+      "birth place": ""
+    },
+    "rels": {
+      "father": "9d279e96-c8ea-4084-9b5c-c3352a083e3c",
+      "mother": "269a775e-cc0a-4563-a7f0-3883b324d630"
+    }
+  },
+  {
+    "id": "35dc7782-1e26-4fdd-a79d-6a1046b66598",
+    "data": {
+      "gender": "F",
+      "first name": "Thais",
+      "last name": "Capdeville Tanure",
+      "birthday": "",
+      "avatar": "",
+      "birth place": ""
+    },
+    "rels": {
+      "father": "9d279e96-c8ea-4084-9b5c-c3352a083e3c",
+      "mother": "269a775e-cc0a-4563-a7f0-3883b324d630"
+    }
+  }
+]
